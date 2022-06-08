@@ -5,7 +5,7 @@
       "firstName": "Ольга",
       "lastName": "Румянцева",
       "middleName": "Алексеевна",
-      "dateOfBirth": "21/06/1975",
+      "dateOfBirth": "1975-06-21",
       "address": "пр. Ленина, 23-47",
       "division": "Контроль качества",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -15,7 +15,7 @@
       "firstName": "Анатолий",
       "lastName": "Иванов",
       "middleName": "Алексеевна",
-      "dateOfBirth": "11/12/1987",
+      "dateOfBirth": "1987-12-11",
       "address": "пр. Ленина, 23-47",
       "division": "Цех",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -25,7 +25,7 @@
       "firstName": "Николай",
       "lastName": "Петров",
       "middleName": "Алексеевна",
-      "dateOfBirth": "01/08/1984",
+      "dateOfBirth": "1984-08-01",
       "address": "пр. Ленина, 23-47",
       "division": "Разработка",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -35,7 +35,7 @@
       "firstName": "Светлана",
       "lastName": "Роднина",
       "middleName": "Алексеевна",
-      "dateOfBirth": "15/10/1965",
+      "dateOfBirth": "1965-10-15",
       "address": "пр. Ленина, 23-47",
       "division": "Бухгалтерия",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -45,7 +45,7 @@
       "firstName": "Мария",
       "lastName": "Румянцева",
       "middleName": "Алексеевна",
-      "dateOfBirth": "11/12/1987",
+      "dateOfBirth": "1987-12-11",
       "address": "пр. Ленина, 23-47",
       "division": "Разработка",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -55,7 +55,7 @@
       "firstName": "Евгений",
       "lastName": "Петров",
       "middleName": "Алексеевна",
-      "dateOfBirth": "01/08/1984",
+      "dateOfBirth": "1984-08-01",
       "address": "пр. Ленина, 23-47",
       "division": "Цех",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -65,7 +65,7 @@
       "firstName": "Александр",
       "lastName": "Иванов",
       "middleName": "Алексеевна",
-      "dateOfBirth": "21/06/1975",
+      "dateOfBirth": "1975-06-21",
       "address": "пр. Ленина, 23-47",
       "division": "Разработка",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -75,7 +75,7 @@
       "firstName": "Елена",
       "lastName": "Роднина",
       "middleName": "Алексеевна",
-      "dateOfBirth": "01/08/1984",
+      "dateOfBirth": "1984-08-01",
       "address": "пр. Ленина, 23-47",
       "division": "Контроль качества",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -85,7 +85,7 @@
       "firstName": "Анастасия",
       "lastName": "Румянцева",
       "middleName": "Алексеевна",
-      "dateOfBirth": "01/08/1984",
+      "dateOfBirth": "1984-08-01",
       "address": "пр. Ленина, 23-47",
       "division": "Контроль качества",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -95,7 +95,7 @@
       "firstName": "Сергей",
       "lastName": "Петров",
       "middleName": "Алексеевна",
-      "dateOfBirth": "21/06/1975",
+      "dateOfBirth": "1975-06-21",
       "address": "пр. Ленина, 23-47",
       "division": "Цех",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -105,7 +105,7 @@
       "firstName": "Ольга",
       "lastName": "Роднина",
       "middleName": "Алексеевна",
-      "dateOfBirth": "01/08/1984",
+      "dateOfBirth": "1984-08-01",
       "address": "пр. Ленина, 23-47",
       "division": "Разработка",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -115,7 +115,7 @@
       "firstName": "Анатолий",
       "lastName": "Петров",
       "middleName": "Алексеевна",
-      "dateOfBirth": "11/12/1987",
+      "dateOfBirth": "1987-12-11",
       "address": "пр. Ленина, 23-47",
       "division": "Разработка",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -125,7 +125,7 @@
       "firstName": "Николай",
       "lastName": "Иванов",
       "middleName": "Алексеевна",
-      "dateOfBirth": "01/08/1984",
+      "dateOfBirth": "1984-08-01",
       "address": "пр. Ленина, 23-47",
       "division": "Цех",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -135,7 +135,7 @@
       "firstName": "Светлана",
       "lastName": "Румянцева",
       "middleName": "Алексеевна",
-      "dateOfBirth": "15/10/1965",
+      "dateOfBirth": "1965-10-15",
       "address": "пр. Ленина, 23-47",
       "division": "Бухгалтерия",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
@@ -145,7 +145,7 @@
       "firstName": "Евгений",
       "lastName": "Иванов",
       "middleName": "Алексеевна",
-      "dateOfBirth": "11/12/1987",
+      "dateOfBirth": "1987-12-11",
       "address": "пр. Ленина, 23-47",
       "division": "Цех",
       "aboutMe": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ea cupiditate blanditiis provident voluptates. Doloribus repellendus nemo alias quae reprehenderit, ea officia dolorem, libero, id maiores ipsum tempore quibusdam optio."
